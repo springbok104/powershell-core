@@ -1,4 +1,4 @@
-## powershell-core
+## powershell-core (WIP)
 
 Modern PowerShell for cross-platform environments. Covering sysadmin tasks, cloud automation, and tools. 
 
@@ -6,4 +6,4 @@ Modern PowerShell for cross-platform environments. Covering sysadmin tasks, clou
 
 | Script | Description |
 |--------|-------------|
-| [`adds-deployment`](./adds-deployment.ps1) | Automates the deployment of ADDS on Windows Server using |
+| [`adds-deployment`](./adds-deployment.ps1) | Automates the deployment of ADDS on Windows Server |
